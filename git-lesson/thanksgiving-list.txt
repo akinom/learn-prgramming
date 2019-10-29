@@ -1,0 +1,14 @@
+Guests: 
+	List all guest  
+
+Main Course Dishes 
+	List dish and who cooks it 
+
+Drinks: 
+	Wine 
+	Beer 
+	Juice 
+
+Beds for out-of-town guests: 
+
+		
