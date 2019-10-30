@@ -1,5 +1,7 @@
 Guests: 
-	List all guest  
+	Liz
+	Tonya
+	Monika + 1
 
 Main Course Dishes 
 	List dish and who cooks it 
