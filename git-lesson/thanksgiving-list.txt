@@ -4,6 +4,12 @@ Guests:
 Main Course Dishes 
 	List dish and who cooks it 
 
+Turkey
+Stuffing
+Sweet Potatoes
+Chocolate cake
+
+
 Drinks: 
 	Wine 
 	Beer 
