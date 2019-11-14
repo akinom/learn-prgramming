@@ -1,3 +1,7 @@
+import os
+
+os.chdir('searchFile')
+
 filename = "testdata.txt"
 
 file =  open(filename, "r")
