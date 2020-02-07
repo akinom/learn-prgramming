@@ -1,7 +1,5 @@
 import os
 
-os.chdir('searchFile')
-
 filename = "testdata.txt"
 
 # read lines from file

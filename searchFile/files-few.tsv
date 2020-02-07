@@ -1,0 +1,6 @@
+permissions	size	month	day	year	filename
+-rw-r--r--		296	Jan	21	2020	./nj_bills.iml
+-rw-rw----		2471	Feb		6	2020	./scrape/htmlToJson.js
+-rw-rw----		2510	Feb		6	2020	./scrape/nj.js
+-rw-r-----@		91320	Jan	22	2020	./scrape/s3/nj/2018-2019/A10.html
+-rw-r-----@		41198	Jan	29	2020	./scrape/s3/nj/2018-2019/list1.html
