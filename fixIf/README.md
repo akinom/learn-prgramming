@@ -138,8 +138,6 @@ This is correct code now, but it is not easy to understand. Here a more readable
 def age_appropiate_response(age): 
     if (age < 10):
         print("Hey kiddo")
-    elif age < 100:
-        print("You have reached maturity")
     elif age <= 2000:
         print("You have reached maturity")
     else: 
