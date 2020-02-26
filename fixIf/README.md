@@ -102,7 +102,7 @@ def age_appropiate_response(age):
     elif age > 2000:
         print("Are you a mummy?")
     elif (age >= 100):
-        print("You have reached maturity")
+        print("You are really old")
         
 for test_age in [1, 10, 11, 50, 99, 100, 101, 2000, 2001]: 
     print("Age: " + str(test_age))
@@ -122,9 +122,9 @@ for test_age in [1, 10, 11, 50, 99, 100, 101, 2000, 2001]:
     Age: 100
     You have reached maturity
     Age: 101
-    You have reached maturity
+    You are really old
     Age: 2000
-    You have reached maturity
+    You are really old
     Age: 2001
     Are you a mummy?
 
@@ -138,8 +138,10 @@ This is correct code now, but it is not easy to understand. Here a more readable
 def age_appropiate_response(age): 
     if (age < 10):
         print("Hey kiddo")
-    elif age <= 2000:
+    elif age < 100:
         print("You have reached maturity")
+    elif age <= 2000:
+        print("You are really old")
     else: 
         print("Are you a mummy?")
 ```
